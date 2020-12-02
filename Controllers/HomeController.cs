@@ -62,7 +62,7 @@ namespace UserLogin.Controllers
         // -----------------------------------------------------------end
 
 
-        // Processing Registertion and Login-------------------------------------------------
+        // Processing Registration and Login-------------------------------------------------
         [HttpPost("Redgister")]
         public IActionResult Redgister(User FromForm)
         {
@@ -144,7 +144,8 @@ namespace UserLogin.Controllers
         }
 
 
-        // ------------------------------------------end of regitration and login
+
+        // ------------------------------------------end of registration and login
 
 
 
